@@ -4,8 +4,10 @@ A simple and user-friendly web app that fetches current weather data based on us
 
 ## 🚀 Live Demo
 
-Check out the live app here:  
-➡️ [Weather Application Live Demo](https://YOUR-LIVE-DEMO-URL/)
+## 🚀 Live Demo
+
+👉 [Click here to try it out](https://kalashreeUV.github.io/Weather-Application/)
+
 
 ## ✨ Features
 
