@@ -2,7 +2,7 @@
 
 A simple and user-friendly web app that fetches current weather data based on user input or geolocation.
 
-## 🚀 Live Demo
+
 
 ## 🚀 Live Demo
 
